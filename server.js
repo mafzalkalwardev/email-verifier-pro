@@ -8,6 +8,7 @@ const { errorHandler } = require('./middlewares/errorMiddleware');
 
 // Load env vars
 dotenv.config();
+const { requireIndusLicense } = require('./lib/indus_license');
 
 // Connect to database
 connectDB();
@@ -42,6 +43,6 @@ app.use(errorHandler);
 
 const PORT = process.env.PORT || 5000;
 
-app.listen(PORT, () => {
+requireIndusLicense(__dirname).then(() => app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
 });
