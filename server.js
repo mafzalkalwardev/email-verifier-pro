@@ -43,6 +43,13 @@ app.use(errorHandler);
 
 const PORT = process.env.PORT || 5000;
 
-requireIndusLicense(__dirname).then(() => app.listen(PORT, () => {
-    console.log(`Server running on port ${PORT}`);
-});
+requireIndusLicense(__dirname)
+    .then(() => {
+        app.listen(PORT, () => {
+            console.log(`Server running on port ${PORT}`);
+        });
+    })
+    .catch((err) => {
+        console.error(err.message || err);
+        process.exit(1);
+    });
