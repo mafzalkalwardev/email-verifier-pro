@@ -1,34 +1,70 @@
 <div align="center">
 
-# 🚀 Email Verifier Pro
+# Email Verifier Pro
 
-**A full-stack Email Verification Web App built with Node.js, Express, MongoDB, JWT Auth, bulk CSV/XLSX validation, dashboard analytics, and validation history.**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=700&color=EA4335&center=true&vCenter=true&width=900&lines=Full-Stack+Email+Verification+App;Node.js+%2B+Express+%2B+MongoDB;JWT+Auth+%2B+Bulk+CSV%2FXLSX;Dashboard+analytics+%2B+history" alt="Typing SVG" />
 
-Documented · MIT licensed · Maintained
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mafzalkalwardev&label=Project%20Views&color=ea4335&style=for-the-badge" alt="Project views" />
+  <img src="https://img.shields.io/github/stars/mafzalkalwardev/email-verifier-pro?style=for-the-badge&color=22c55e" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/mafzalkalwardev/email-verifier-pro?style=for-the-badge&color=f59e0b" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/license/mafzalkalwardev/email-verifier-pro?style=for-the-badge&color=64748b" alt="License" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,html,js" alt="Skill icons" />
+</p>
+
+<p>
+  <strong>Full-stack email verification web app with Node.js, Express, MongoDB, JWT auth, bulk CSV/XLSX validation, dashboard analytics, and history.</strong>
+</p>
 
 </div>
 
 ---
 
-## 🐍 Contribution graph
+## Trophy Cards
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/email-verifier-pro/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/email-verifier-pro/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/email-verifier-pro/output/snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mafzalkalwardev&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophy cards" />
+</div>
 
 ---
 
-A full-stack, modern web application for single and bulk email verification, integrated with the EmailListVerify API.
+## Stats Cards
 
-## Screenshots
+<div align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
 
-![Application screenshot](docs/screenshots/app.png)
+---
+
+## Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## SEO Keywords
+
+`email verifier` `MongoDB` `JWT` `bulk CSV validation`
+
+---
 
 ## Features
 - **Modern Glassmorphism UI:** Responsive and dynamic design with Dark/Light mode support.
